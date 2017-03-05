@@ -74,7 +74,7 @@
             ],
             "description": "datto/protobuf-php repository for overriding in youtube/vitess",
             "support": {
-                "source": "https://github.com/datto/Protobuf-PHP/tree/masterr",
+                "source": "https://github.com/datto/Protobuf-PHP/tree/master",
                 "issues": "https://github.com/datto/Protobuf-PHP/issues"
             },
             "time": "2016-07-19 22:01:45"
