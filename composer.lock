@@ -61,23 +61,21 @@
             "version": "dev-master",
             "source": {
                 "type": "git",
-                "url": "https://github.com/pixelfederation/datto-Protobuf-PHP-fake.git",
-                "reference": "e85085f54abad7e30f72c8086adae47c21372e7f"
+                "url": "https://github.com/datto/Protobuf-PHP.git"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/pixelfederation/datto-Protobuf-PHP-fake/zipball/e85085f54abad7e30f72c8086adae47c21372e7f",
-                "reference": "e85085f54abad7e30f72c8086adae47c21372e7f",
+                "url": "https://api.github.com/repos/php-fig/http-message/zipball",
                 "shasum": ""
             },
             "type": "library",
             "license": [
                 "MIT"
             ],
-            "description": "Fake datto/protobuf-php repository for overriding in youtube/vitess",
+            "description": "datto/protobuf-php repository for overriding in youtube/vitess",
             "support": {
-                "source": "https://github.com/pixelfederation/datto-Protobuf-PHP-fake/tree/master",
-                "issues": "https://github.com/pixelfederation/datto-Protobuf-PHP-fake/issues"
+                "source": "https://github.com/datto/Protobuf-PHP/tree/master",
+                "issues": "https://github.com/datto/Protobuf-PHP/issues"
             },
             "time": "2016-07-19 22:01:45"
         },
